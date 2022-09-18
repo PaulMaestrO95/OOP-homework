@@ -27,11 +27,11 @@ class Mentor:
             return 'Ошибка'
 
 
-class Lecturer:
+class Lecturer(Mentor):
     pass
 
 
-class Reviewer:
+class Reviewer(Mentor):
     pass
 
 
