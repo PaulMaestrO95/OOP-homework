@@ -135,7 +135,7 @@ student_2.rate_lecturer(lecturer_2, 'Git', 10)
 student_2.rate_lecturer(lecturer_2, 'Git', 5)
 student_2.rate_lecturer(lecturer_2, 'Git', 7)
 
-some_reviewer = Reviewer('Джек', 'Лондон')
+some_reviewer = Reviewer('Илья', 'Александров')
 some_reviewer.courses_attached += ['Python', 'Git']
 
 reviewer_2 = Reviewer('Александр', 'Пушкин')
